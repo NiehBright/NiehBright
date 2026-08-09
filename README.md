@@ -4,7 +4,7 @@
 
 ### 🎮 Game Developer | 💻 Solo Dev | 🇻🇳 Based in Vietnam
 
-*Turning coffee and passion into interactive experiences.*
+*Zero to hero.*
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/outrunning_karma) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Nieh.1608/) 
