@@ -71,6 +71,4 @@ Xin chào! I'm **Nguyễn Thanh Hiền (Nieh)**, an independent game developer a
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<!-- 
-Tự hào tạo bởi Nieh
--->
+
